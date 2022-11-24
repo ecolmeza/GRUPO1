@@ -3,6 +3,6 @@
 echo "Introduce tu edad: "
 read num
 
-final = num + 5
+numT=$((num + 2 + 3))
 
-echo "En 5 años tendrás $final y serás un buen analista de datos"
+echo "En 5 años tendrás $numT y serás un buen analista de datos"
